@@ -1,0 +1,33 @@
+
+
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+float Read_Num()
+{
+    float R;
+    cout << "please enter R ?\n ";
+    cin >> R;
+    return R;
+}
+
+float circle_area(float  R)
+{
+    const float PI = 3.141592653589793238462643383279502884197;
+     
+   float Area=  pow(R, 2)  *PI ;
+     return Area; 
+}
+void print_result(float Area) 
+{
+    cout << "circle area = " << Area << endl;
+}
+
+
+int main()
+{
+      
+     print_result(circle_area(Read_Num())); 
+}
+

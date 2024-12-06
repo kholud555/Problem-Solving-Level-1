@@ -1,0 +1,4 @@
+﻿  hw problem 20.cpp
+D:\Documents\c++\hw problem 20\hw problem 20.cpp(19,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 20\hw problem 20.cpp(20,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  hw problem 20.vcxproj -> D:\Documents\c++\hw problem 20\x64\Debug\hw problem 20.exe
