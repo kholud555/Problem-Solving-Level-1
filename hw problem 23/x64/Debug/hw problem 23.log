@@ -1,0 +1,4 @@
+﻿  hw problem 23.cpp
+D:\Documents\c++\hw problem 23\hw problem 23.cpp(18,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 23\hw problem 23.cpp(22,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  hw problem 23.vcxproj -> D:\Documents\c++\hw problem 23\x64\Debug\hw problem 23.exe
