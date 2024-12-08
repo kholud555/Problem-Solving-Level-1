@@ -1,0 +1,4 @@
+﻿  hw problem 21.cpp
+D:\Documents\c++\hw problem 21\hw problem 21.cpp(16,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 21\hw problem 21.cpp(17,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  hw problem 21.vcxproj -> D:\Documents\c++\hw problem 21\x64\Debug\hw problem 21.exe
