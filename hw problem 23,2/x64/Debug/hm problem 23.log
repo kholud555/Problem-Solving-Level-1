@@ -1,0 +1,6 @@
+﻿  hm problem 23.cpp
+D:\Documents\c++\hm problem 23\hm problem 23.cpp(7,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\c++\hm problem 23\hm problem 23.cpp(9,39): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\Documents\c++\hm problem 23\hm problem 23.cpp(17,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Documents\c++\hm problem 23\hm problem 23.cpp(28,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  hm problem 23.vcxproj -> D:\Documents\c++\hm problem 23\x64\Debug\hm problem 23.exe
