@@ -1,0 +1,2 @@
+D:\Documents\c++\problem 27\x64\Debug\problem 27.exe
+D:\Documents\c++\hw problem 27\x64\Debug\problem 27.exe
