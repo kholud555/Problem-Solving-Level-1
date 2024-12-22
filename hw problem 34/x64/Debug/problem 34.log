@@ -1,0 +1,7 @@
+﻿  problem 34.cpp
+D:\Documents\c++\hw problem 34\problem 34.cpp(17,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 34\problem 34.cpp(19,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 34\problem 34.cpp(21,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 34\problem 34.cpp(23,10): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Documents\c++\hw problem 34\problem 34.cpp(37,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  problem 34.vcxproj -> D:\Documents\c++\hw problem 34\x64\Debug\problem 34.exe
