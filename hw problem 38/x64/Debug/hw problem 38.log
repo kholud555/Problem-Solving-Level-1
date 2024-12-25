@@ -1,0 +1,5 @@
+﻿  hw problem 38.cpp
+D:\Documents\c++\hw problem 38\hw problem 38.cpp(14,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+D:\Documents\c++\hw problem 38\hw problem 38.cpp(18,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Documents\c++\hw problem 38\hw problem 38.cpp(42,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  hw problem 38.vcxproj -> D:\Documents\c++\hw problem 38\x64\Debug\hw problem 38.exe

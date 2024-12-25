@@ -1,0 +1,4 @@
+﻿  problem 36.cpp
+D:\Documents\c++\hw problem 36\problem 36.cpp(33,2): warning C4102: 'defualt': unreferenced label
+D:\Documents\c++\hw problem 36\problem 36.cpp(36): warning C4715: 'calculation_with_operator': not all control paths return a value
+  problem 36.vcxproj -> D:\Documents\c++\hw problem 36\x64\Debug\problem 36.exe
