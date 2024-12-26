@@ -1,0 +1,3 @@
+﻿  hw problem 39.cpp
+D:\Documents\c++\hw problem 39\hw problem 39.cpp(14,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  hw problem 39.vcxproj -> D:\Documents\c++\hw problem 39\x64\Debug\hw problem 39.exe
