@@ -1,0 +1,6 @@
+﻿  hw problem 43.cpp
+D:\Documents\c++\hw problem 43\hw problem 43.cpp(27,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\c++\hw problem 43\hw problem 43.cpp(29,42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\c++\hw problem 43\hw problem 43.cpp(31,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Documents\c++\hw problem 43\hw problem 43.cpp(33,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  hw problem 43.vcxproj -> D:\Documents\c++\hw problem 43\x64\Debug\hw problem 43.exe
